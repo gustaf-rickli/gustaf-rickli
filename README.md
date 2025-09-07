@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/gustaf-rickli/gustaf-rickli/blob/main/jGif.gif" width="400px" alt="commit gif looping" />
+  <img src="https://github.com/gustaf-rickli/gustaf-rickli/blob/main/jGif.gif" width="700px" alt="commit gif looping" />
 </p>
 
 ---
