@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
- Sou apaixonado por desenvolvimento web em Java e pela facilidade que seus frameworks trazem para o dia a dia da empresa.
+  <img src="https://github.com/gustaf-rickli/gustaf-rickli/blob/main/github-apresentacao.png" width="700px" alt="commit gif looping" />
 </p>
 
 <p align="center">
