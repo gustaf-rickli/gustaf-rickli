@@ -34,7 +34,6 @@
 desenvolvi alguns projetos em Kotlin BackEnd, IoT e C# com ASP .Net
 - Desde que comecei a faculdade foquei meus estudos direcionados a desenvolvimento Java no back-end
 - Academia, Escalar montanhas, Motos e Caminhonetes são meus hobbies
-- Pretendo algum dia fazer um canal no Youtube para ensinar a galera a programar usando Minecraft, envolve conceitos relacionados á Orientação a Objetos, servidores TCP/IP, e muitas coisas divertidas
 
 ---
 
