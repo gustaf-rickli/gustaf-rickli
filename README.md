@@ -11,9 +11,9 @@
 
 ---
 
-<p align="center">
+<h2 align="center">
  Sou apaixonado por desenvolvimento web em Java e pela facilidade que seus frameworks trazem para o dia a dia da empresa.
-</p>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-rickli/">
@@ -29,7 +29,7 @@
 - 🏆 Pretendo realizar um mestrado na área de Sistemas Distribuídos
 - Pelo Técnico no SENAI
 desenvolvi alguns projetos em Kotlin BackEnd, IoT e C# com ASP .Net
-- Desde que comecei a faculdade foquei meus estudos direcionados a desenvolvimento Java no back-end
+- Desde que comecei a faculdade foquei meus estudos direcionados ao desenvolvimento Java no back-end
 - Academia, Escalar montanhas, Motos e Caminhonetes são meus hobbies
 
 ---
