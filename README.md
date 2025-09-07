@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:gustavorickli.contato@gmail.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-gustavorickli.contato@gmail.com?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 
