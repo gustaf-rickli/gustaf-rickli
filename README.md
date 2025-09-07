@@ -11,13 +11,13 @@
 
 ---
 
-<h2 align="center">
+<p align="center">
  Sou apaixonado por desenvolvimento web em Java e pela facilidade que seus frameworks trazem para o dia a dia da empresa.
-</h2>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-rickli/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white" width="80px">
   </a>
 </p>
 
