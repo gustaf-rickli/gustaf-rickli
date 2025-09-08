@@ -1,7 +1,7 @@
 <h1 align="center">Prazer, Gustavo Rickli</h1>
 
 <p align="center">
-  <em>Analista de Sistemas • Fullstack Java Spring Angular</em>
+  <em>Análise e Desenvolvimento de Sistemas - SENAC</em>
 </p>
 
 
