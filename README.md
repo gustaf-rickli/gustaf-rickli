@@ -34,9 +34,3 @@ desenvolvi alguns projetos em Kotlin BackEnd, IoT e C# com ASP .Net
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaf-rickli&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github.com/gustaf-rickli/gustaf-rickli/blob/main/perfil-message.jpg" width="700px" alt="commit gif looping" />
-</p>
