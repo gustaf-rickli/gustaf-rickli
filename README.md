@@ -1,12 +1,7 @@
 <h1 align="center">Prazer, Gustavo Rickli</h1>
 
 <p align="center">
-  <em>Análise e Desenvolvimento de Sistemas - SENAC</em>
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/gustaf-rickli/gustaf-rickli/blob/main/jGif.gif" width="700px" alt="commit gif looping" />
+  <em>Analista de Sistemas Java</em>
 </p>
 
 ---
