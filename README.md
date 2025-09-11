@@ -21,10 +21,6 @@
 ### 🧠 Sobre mim, Experiência e Expectativas
 
 - 🧑‍🏫 Graduado em Análise e Desenvolvimento de Sistemas pelo SENAC, e Técnico em Desenvolvimento de Sistemas pelo SENAI
-- 🏆 Pretendo realizar um mestrado na área de Sistemas Distribuídos
-- Pelo Técnico no SENAI
-desenvolvi alguns projetos em Kotlin BackEnd, IoT e C# com ASP .Net
-- Desde que comecei a faculdade foquei meus estudos direcionados ao desenvolvimento Java no back-end
 - Academia, Escalar montanhas, Motos e Caminhonetes são meus hobbies
 
 ---
