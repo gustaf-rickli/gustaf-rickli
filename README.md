@@ -18,13 +18,6 @@
 
 ---
 
-### 🧠 Sobre mim, Experiência e Expectativas
-
-- 🧑‍🏫 Graduado em Análise e Desenvolvimento de Sistemas pelo SENAC, e Técnico em Desenvolvimento de Sistemas pelo SENAI
-- Academia, Escalar montanhas, Motos e Caminhonetes são meus hobbies
-
----
-
 ### 💻 Minha Stack atualmente
 
 <p align="center">
